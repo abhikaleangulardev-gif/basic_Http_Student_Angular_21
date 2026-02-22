@@ -1,0 +1,15 @@
+.custom-card {
+  border-radius: 12px !important;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.mat-mdc-cell,
+.mat-mdc-header-cell {
+  color: antiquewhite;
+}
